@@ -1,0 +1,3 @@
+Valores originais de x, y e z: 1 2 3
+Valores finais de x, y e z dentro da funcao: 101 102 103
+Valores finais em main de a, b e c: 1 2 3

@@ -1,0 +1,3 @@
+Valores originais na funcao - 1o, 2o, e 3o: 1 2 3
+Valores finais na funcao - 1o, 2o e 3o: 101 102 103
+Valores finais em main 1o, 2o e 3o: 101 102 103

@@ -1,0 +1,4 @@
+Antes de chamar por_valor: x = 2, y = 4, z = 6
+Depois de chamar por_valor: x = 2, y = 4, z = 6
+Antes de chamar por_ref: x = 2, y = 4, z = 6
+Depois de chamar por_ref: x = 0, y = 0, z = 0

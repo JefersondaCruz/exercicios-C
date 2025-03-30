@@ -1,0 +1,2 @@
+soma 45
+nr --> 2025 possui a característica
